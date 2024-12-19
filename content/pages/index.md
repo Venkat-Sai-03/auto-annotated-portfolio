@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: venkat
+title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
